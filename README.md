@@ -2,11 +2,12 @@
 This project is a full-stack e-commerce website with Stripe payment integration. It allows users to browse products, add them to their cart, and securely checkout using the Stripe payment gateway.
 
 # Features
-Product Catalog: Display a list of products with details such as name, price, and description.
-Shopping Cart: Allow users to add and remove items from their cart.
-Checkout Process: Securely process payments using the Stripe payment gateway.
-User Authentication: Allow users to sign up, log in, and manage their account.
-Technologies Used
+Product Catalog: Display a list of products with details such as name, price, and description. 
+Shopping Cart: Allow users to add and remove items from their cart. 
+Checkout Process: Securely process payments using the Stripe payment gateway. 
+User Authentication: Allow users to sign up, log in, and manage their account. 
+
+# Technologies Used
 Frontend: React, CSS, Bootstrap
 Backend: Node.js, Express
 Database: PostgreSQL
